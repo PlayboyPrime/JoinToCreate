@@ -1,5 +1,5 @@
 ## You can only use variables in newChannelName
-+++
+***
 
 |Variable|Replacement|
 |--------|-----------|
