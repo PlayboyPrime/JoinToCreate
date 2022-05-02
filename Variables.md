@@ -1,3 +1,5 @@
+## You can only use variables in newChannelName
+
 |Variable|Replacement|
 |--------|-----------|
 |{user.name}|Will be replaced with the users name.|
