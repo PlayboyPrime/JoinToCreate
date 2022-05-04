@@ -1,4 +1,4 @@
-# config.json 1.0.0 standard
+# config.json 1.0.1 standard
 
 ```json
 {
@@ -6,9 +6,7 @@
         "newChannelName": "",
         "newChannelCategoryId": "",
         "deleteChannelAfterLeave": "",
-        "creatorCanKick": "",
-        "creatorCanMute": "",
-        "creatorCanDeaf": ""
+        "creatorCanKick": ""
     },
 
     "voiceid": "",
