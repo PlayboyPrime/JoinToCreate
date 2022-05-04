@@ -1,4 +1,4 @@
-# config.json 1.0.1 standard
+# config.json 1.0.0 standard
 
 ```json
 {
