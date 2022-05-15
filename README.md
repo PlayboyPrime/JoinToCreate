@@ -1,4 +1,4 @@
-## This repo is about my Discord Bot Studio JoinToCreate mod.
+This repo is about my Discord Bot Studio JoinToCreate mod.
 
 # [Download JoinToCreate mod](https://github.com/PlayboyPrime/JoinToCreate/releases/tag/1.0.0)
 
